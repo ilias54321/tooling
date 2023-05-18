@@ -4,7 +4,7 @@
 ## Introduction (i am doing amazing things with jenkins and more)
 This is a Dockerfile to build a debian based container image running nginx and php-fpm 7.3.x / 7.2.x / 7.1.x / 7.0.x & Composer.
 
-### Versioning (oh wow and more!!!!)
+### Versioning (oh wow and more!!!! hopefully it now works)
 | Docker Tag | GitHub Release | Nginx Version | PHP Version | Debian Version |
 |-----|-------|-----|--------|--------|
 | latest | master Branch |1.17.2 | 7.3.8 | buster |
